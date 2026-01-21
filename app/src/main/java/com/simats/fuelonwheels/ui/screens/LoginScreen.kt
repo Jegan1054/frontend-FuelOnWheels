@@ -24,7 +24,7 @@ import androidx.compose.ui.unit.sp
 import com.simats.fuelonwheels.R
 import com.simats.fuelonwheels.models.LoginRequest
 import com.simats.fuelonwheels.network.RetrofitClient
-import com.simats.fuelonwheels.repository.ApiRepository
+import com.simats.fuelonwheels.ApiRepository
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)

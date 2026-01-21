@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import com.simats.fuelonwheels.models.*
 import com.simats.fuelonwheels.network.RetrofitClient
-import com.simats.fuelonwheels.repository.ApiRepository
+import com.simats.fuelonwheels.ApiRepository
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

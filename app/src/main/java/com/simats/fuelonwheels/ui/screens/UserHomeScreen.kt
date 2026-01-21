@@ -25,7 +25,7 @@ import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
 import com.google.android.gms.tasks.Tasks
 import com.simats.fuelonwheels.network.RetrofitClient
-import com.simats.fuelonwheels.repository.ApiRepository
+import com.simats.fuelonwheels.ApiRepository
 import com.simats.fuelonwheels.utils.PreferencesManager
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

@@ -92,7 +92,7 @@ dependencies {
 
     // Coil for image loading
     implementation("io.coil-kt:coil-compose:2.5.0")
-
+    implementation("com.android.billingclient:billing-ktx:6.1.0")
     // Location services (if needed for GPS)
     implementation("com.google.android.gms:play-services-location:21.1.0")
 

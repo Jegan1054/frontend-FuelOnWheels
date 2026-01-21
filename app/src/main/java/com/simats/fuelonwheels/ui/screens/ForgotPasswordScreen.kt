@@ -14,7 +14,7 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
 import com.simats.fuelonwheels.models.*
 import com.simats.fuelonwheels.network.RetrofitClient
-import com.simats.fuelonwheels.repository.ApiRepository
+import com.simats.fuelonwheels.ApiRepository
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)

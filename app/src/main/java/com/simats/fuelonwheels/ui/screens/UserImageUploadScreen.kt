@@ -23,7 +23,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import coil.compose.rememberAsyncImagePainter
 import com.simats.fuelonwheels.network.RetrofitClient
-import com.simats.fuelonwheels.repository.ApiRepository
+import com.simats.fuelonwheels.ApiRepository
 import kotlinx.coroutines.launch
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.MultipartBody

@@ -16,7 +16,7 @@ import com.google.android.gms.maps.model.*
 import com.google.maps.android.compose.*
 import com.simats.fuelonwheels.models.RegisterShopRequest
 import com.simats.fuelonwheels.network.RetrofitClient
-import com.simats.fuelonwheels.repository.ApiRepository
+import com.simats.fuelonwheels.ApiRepository
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.tasks.await
 
